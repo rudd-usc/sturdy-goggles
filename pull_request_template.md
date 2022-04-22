@@ -12,4 +12,5 @@ delete options not relevant
 
 - [ ] bug fix
 - [ ] new feature
+- [ ] breaking change
 
