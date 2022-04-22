@@ -1,6 +1,4 @@
 Instructions for deploying this site to the server
 ==================================================
 
-Installation on IIS
--------------------
-
+see installation.txt
